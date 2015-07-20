@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[GPContentView footrefresh]:GPContentView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_footrefresh">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__57-[GPContentView scrollViewDidEndDragging:willDecelerate:]_block_invoke:GPContentView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.subjects">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
